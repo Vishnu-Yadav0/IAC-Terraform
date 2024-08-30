@@ -4,9 +4,8 @@ Jfrog_infra/.terraform/
 Jfrog_infra_copy/.terraform/
 sonarQube_infra/.terraform/
 
-tomcat_infra\.terraform.lock.hcl
-tf1\.terraform.lock.hcl
-sonarQube_infra\.terraform.lock.hcl
-Jfrog_infra_copy\.terraform.lock.hcl
-
-Jfrog_infra\.terraform.lock.hcl
+tomcat_infra/.terraform.lock.hcl
+tf1/.terraform.lock.hcl
+sonarQube_infra/.terraform.lock.hcl
+Jfrog_infra_copy/.terraform.lock.hcl
+Jfrog_infra/.terraform.lock.hcl
